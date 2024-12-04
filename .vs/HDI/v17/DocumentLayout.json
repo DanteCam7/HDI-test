@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tejon\\source\\repos\\HDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|c:\\users\\tejon\\source\\repos\\hdi\\hdi\\hdi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|solutionrelative:hdi\\hdi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|c:\\users\\tejon\\source\\repos\\hdi\\hdi\\controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|solutionrelative:hdi\\controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|c:\\users\\tejon\\source\\repos\\hdi\\hdi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|solutionrelative:hdi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|c:\\users\\tejon\\source\\repos\\hdi\\hdi\\models\\mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|solutionrelative:hdi\\models\\mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|c:\\users\\tejon\\source\\repos\\hdi\\hdi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|solutionrelative:hdi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|c:\\users\\tejon\\source\\repos\\hdi\\hdi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|solutionrelative:hdi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|c:\\users\\tejon\\source\\repos\\hdi\\hdi\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|solutionrelative:hdi\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|c:\\users\\tejon\\source\\repos\\hdi\\hdi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A925CD7-EBC6-4A88-81F9-6266EDFF764F}|HDI\\HDI.csproj|solutionrelative:hdi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HDI",
+              "DocumentMoniker": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\HDI.csproj",
+              "RelativeDocumentMoniker": "HDI\\HDI.csproj",
+              "ToolTip": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\HDI.csproj",
+              "RelativeToolTip": "HDI\\HDI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T07:24:46.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mesas.cs",
+              "DocumentMoniker": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Models\\Mesas.cs",
+              "RelativeDocumentMoniker": "HDI\\Models\\Mesas.cs",
+              "ToolTip": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Models\\Mesas.cs",
+              "RelativeToolTip": "HDI\\Models\\Mesas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:58:15.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "HDI\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Models\\Producto.cs",
+              "RelativeToolTip": "HDI\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:57:31.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdenesController.cs",
+              "DocumentMoniker": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Controllers\\OrdenesController.cs",
+              "RelativeDocumentMoniker": "HDI\\Controllers\\OrdenesController.cs",
+              "ToolTip": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Controllers\\OrdenesController.cs",
+              "RelativeToolTip": "HDI\\Controllers\\OrdenesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:55:10.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "HDI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "HDI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:41:03.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HDI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HDI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:37:31.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HDI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HDI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T06:12:53.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "HDI\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\tejon\\source\\repos\\HDI\\HDI\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "HDI\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T06:13:03.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
